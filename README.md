@@ -1,1 +1,1 @@
-# discord-token
+# simple discord token tool 
